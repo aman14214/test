@@ -4,6 +4,7 @@
     border: none;
     background-color: white;
     padding: 2rem 4rem;
+    background-color: black;
     color: var(--background-color);
     border-bottom: 1px solid var(--background-color);
 }
