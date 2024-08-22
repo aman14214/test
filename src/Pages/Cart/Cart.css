@@ -11,6 +11,7 @@
     justify-content: flex-start;
     align-items: center;
     padding: 3rem;
+   
 }
 
 .cart-grid
@@ -21,6 +22,7 @@
     padding: 2rem;
     gap: 2rem;
     grid-template-columns: repeat( 4 , 1fr );
+   
 }
 
 .cart-items-grid
@@ -30,6 +32,7 @@
     flex-direction: column;
     justify-content: flex-start;
     gap: 2rem;
+   
 }
 
 .card-basic-horizontal
@@ -40,6 +43,7 @@
     padding-left: 2rem;
     margin: 0 auto;
     border-radius: 0;
+    background-image: linear-gradient(to right,#2bc9b1,#D3D3D3);
 }
 
 .outline-card-secondary-btn.card-dismiss-btn
@@ -67,6 +71,7 @@
     max-width: 28.14rem;
     height: 25.2rem;
     padding: 0 0 0 0;
+    
 }
 
 .cart-quantity-para

@@ -14,7 +14,8 @@
     justify-content: flex-start;
     box-sizing: border-box;
     color: black;
-    background-color: white;
+    /* background-image: linear-gradient(to right,#C6EA8D , #FE90AF); */
+    /* background-color:#2bc9b1; */
 }
 
 @media only screen and (max-width:1015px){
@@ -90,7 +91,8 @@
     left: 25%;
     right: 25%;
     border-radius: 5px;
-    background-color: #0e7490;
+    background-color: #0e7490; 
+   
 }
 
 .range-input
@@ -118,6 +120,7 @@ input[type="range"]::-webkit-slider-thumb
     -webkit-appearance:none;
     pointer-events: auto;
     background: #0e7490;
+   
 }
 
 .product-category

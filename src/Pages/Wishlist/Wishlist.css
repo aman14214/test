@@ -1,8 +1,14 @@
+
+body{
+    background-image: linear-gradient(to right,#2bc9b1,#D3D3D3);
+}
 .wishlist-container
 {
     margin-top: 5rem;
-}
+   
 
+   
+}
 .products-card-grid
 {
     width: 100%;
@@ -13,6 +19,7 @@
     grid-template-columns: repeat(auto-fit, 24rem);
     justify-items: center;
     justify-content: space-evenly;
+   
 }
 
 .wishlist-container .products-card-grid

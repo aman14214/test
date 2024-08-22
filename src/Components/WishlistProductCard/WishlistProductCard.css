@@ -1,6 +1,7 @@
 .card-basic.wishlist-card
 {
     height: 40rem;
+    background-image: linear-gradient(to right,#2bc9b1,#D3D3D3);
 }
 
 .fa-heart

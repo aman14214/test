@@ -5,6 +5,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+   
+    
 }
 
 .product-page-item
@@ -14,6 +16,7 @@
     padding: 1rem 5rem 3rem 5rem;
     display: flex;
     gap: 3rem;
+    
 }
 
 @media only screen and (max-width: 1018px)
